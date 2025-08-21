@@ -1,7 +1,4 @@
 ---
-layout: default
-title: Home
+layout: redirect
+redirect_to: /about/
 ---
-
-# Hello
-If you see this, GitHub Pages is working.
