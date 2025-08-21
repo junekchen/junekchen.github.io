@@ -10,6 +10,8 @@ title                    : Yakun Chen
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "junekchen/junekchen.github.io"
 google_scholar_stats_use_cdn : true
+url: "https://junekchen.github.io"
+baseurl: ""
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
