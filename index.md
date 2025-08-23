@@ -17,21 +17,26 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 🙋‍♀️ About Me
 
-Dr. Yakun Chen is currently a Postdoctoral Research Fellow of Centre for Learning, Teaching, and Technology ([LTTC](https://lttc.eduhk.hk/)) at The Education University of Hong Kong (EdUHK), in collaboration with [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong). 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Dr. Yakun Chen is currently a Postdoctoral Research Fellow of Centre for Learning, Teaching, and Technology ([LTTC](https://lttc.eduhk.hk/)) at The Education University of Hong Kong (EdUHK), in collaboration with [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong). She received her Ph.D. degree at the School of Computer Science, Faculty of Engineering and Information Technology, University of Technology Sydney (UTS) (2021-2025), under the supervision of [Dr. Xianzhi Wang](https://profiles.uts.edu.au/XIANZHI.WANG/about), [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong), and [A/Prof. Guodong Long](https://profiles.uts.edu.au/Guodong.Long/about). Before that, she received her Master of Science degree in Applied Mathematics from Northeastern University, USA (2019-2021) and Bachelor of Science degree in Information and Computing Science from Zhejiang Gongshang University (2015-2019). She has published several papers in leading conferences and journals, such as WWW, CSUR, EAAI, and NCA. Additionally, she serves as a reviewer for prominent journals and conferences, including TNNLS, TCSS, ACM TIST, WWW, SIGIR, and IJCAI.
 
-# Research Interests
-Data Mining, Multivariate Time Series Analysis, Large Language Models, I currently focus on:
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-- LLM based Multi-Agent Systems with Education application
+# 📚 Research Interests
+Data Mining, Multivariate Time Series Analysis, Large Language Models Application, I currently focus on:
 
-Welcome to collaborations, please drop me an email!
+- LLM based Multi-Agent Systems with Education application.
+
+<span style="color:red; font-weight:bold; font-size:18px;">Welcome to collaborations, feel free to drop me an email!</span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Aug 2025*: &nbsp; Honored to serve as Finance Chair at the 12th International Conference on Behavioural and Social Computing ([BESC 2025](https://besc-conf.org/2025/conference-committee)).
+- *Aug 2025*: &nbsp; One paper has been accepted by CAAI Transactions on Intelligence Technology.
+- *Jul 2025*: &nbsp; One paper has been accepted by ECML PKDD 2025 (Journal Track).
+- *Jul 2025*: &nbsp; Successfully completed my PhD in Computer Science at the University of Technology Sydney. 🎉🎉 
+- *Apr 2025* &nbsp; Will join EduHK as a Postdoctoral Research Fellow.
+- *Jan 2025* &nbsp; One co-authored paper has been accepted by WWW 2025.
 
 # 📝 Publications
 
@@ -49,17 +54,28 @@ Welcome to collaborations, please drop me an email!
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
+# 🌐 Professional Activities
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+# 🎖 Honors and Awards
+- *2023*, HDR WiEIT Award Distinction, UTS.
+- *2023*, 1st Place Winner of Poster Presentations, SoCS HDR Showcase, UTS.
+- *2021*, Faculty of Engineering and Information Technology (FEIT) Scholarship, UTS.
+- *2021*, International Research Scholarship, UTS.
+
+# 📖 Teaching
+### Academic Tutor in UTS
+- **32516** Internet Programming, Autumn 2024.
+- **31748** Programming on the Internet, Autumn 2024.
+- **32571** Enterprise Software Testing, Spring 2023.
+- **31282** Systems Testing and Quality Management, Spring 2023.
+- **32516** Internet Programming, Autumn 2023.
+- **31748** Programming on the Internet, Autumn 2023.
+- **48024** Application Programming, Spring 2022.
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Jul 2024 - Jan 2025*, Data Scientist, Lumachain, Sydney, Australia.
+- *Dec 2021 - Apr 2022*, Algorithm Engineer, Bytedance, Beijing, China.
+- *Mar 2021 - Jun 2021*, Data Analyst, Bytedance, Beijing, China.
+- *Jul 2020 - Dec 2020*, Statistical Programmer, Bluebird Bio, Boston, USA.
