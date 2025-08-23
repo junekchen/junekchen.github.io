@@ -28,19 +28,19 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 
 - LLM based Multi-Agent Systems with Education application.
 
-<span style="color:red; font-weight:bold; font-size:18px;">Welcome to collaborations, feel free to drop me an email!</span>
+<span style="color:red; font-weight:bold; font-size:16px;">Welcome to collaborations, feel free to drop me an email!</span>
 
 # 🔥 News
-- *Aug 2025*: &nbsp; Honored to serve as Finance Chair at the 12th International Conference on Behavioural and Social Computing ([BESC 2025](https://besc-conf.org/2025/conference-committee)).
+- *Aug 2025*: &nbsp; Honored to serve as Finance Chair at [BESC 2025](https://besc-conf.org/2025/conference-committee).
 - *Aug 2025*: &nbsp; One paper has been accepted by CAAI Transactions on Intelligence Technology.
 - *Jul 2025*: &nbsp; One paper has been accepted by ECML PKDD 2025 (Journal Track).
-- *Jul 2025*: &nbsp; Successfully completed my PhD in Computer Science at the University of Technology Sydney. 🎉🎉 
+- *Jul 2025*: &nbsp; Successfully completed my Ph.D. degree in Computer Science at the University of Technology Sydney. 🎉🎉 
 - *Apr 2025* &nbsp; Will join EduHK as a Postdoctoral Research Fellow.
 - *Jan 2025* &nbsp; One co-authored paper has been accepted by WWW 2025.
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+Coming soon.
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -52,20 +52,19 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🌐 Professional Activities
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Coming soon.
 
-# 🎖 Honors and Awards
+# 🌟 Honors and Awards
 - *2023*, HDR WiEIT Award Distinction, UTS.
 - *2023*, 1st Place Winner of Poster Presentations, SoCS HDR Showcase, UTS.
 - *2021*, Faculty of Engineering and Information Technology (FEIT) Scholarship, UTS.
 - *2021*, International Research Scholarship, UTS.
 
 # 📖 Teaching
-### Academic Tutor in UTS
+## Academic Tutor in UTS
 - **32516** Internet Programming, Autumn 2024.
 - **31748** Programming on the Internet, Autumn 2024.
 - **32571** Enterprise Software Testing, Spring 2023.
