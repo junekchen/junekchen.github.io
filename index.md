@@ -35,20 +35,55 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 - *Aug 2025*: &nbsp; One paper has been accepted by CAAI Transactions on Intelligence Technology.
 - *Jul 2025*: &nbsp; One paper has been accepted by ECML PKDD 2025 (Journal Track).
 - *Jul 2025*: &nbsp; Successfully completed my Ph.D. degree in Computer Science at the University of Technology Sydney. 🎉🎉 
-- *Apr 2025* &nbsp; Will join EduHK as a Postdoctoral Research Fellow.
-- *Jan 2025* &nbsp; One co-authored paper has been accepted by WWW 2025.
+- *Apr 2025*: &nbsp; Will join EduHK as a Postdoctoral Research Fellow.
+- *Jan 2025*: &nbsp; One co-authored paper has been accepted by WWW 2025.
 
 # 📝 Publications
-Coming soon.
+## First Author
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_PointRegGPT/PointRegGPT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Large language models are few-shot multivariate time series classifiers**
+
+*Data Mining and Knowledge Discovery, 2025*
+
+**Yakun Chen**, Zihao Li, Chao Yang, Xianzhi Wang, Guandong Xu
+
+[Paper](https://link.springer.com/article/10.1007/s10618-025-01145-z) | [Code](https://github.com/junekchen/llm-fewshot-mtsc) | [BibTex](collections/2025_ECML/bibtex.md) 
+<!-- <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> -->
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+## Co Author
+Coming Soon.
 
 # 🌐 Professional Activities
-Coming soon.
+## Conference Chair
+- BESC25 Finance Chair
+
+## Conference Program Committee Member
+- BESC25, PKAW25, PKAW24, PRICAI24, PRICAI23, PRICAI22
+
+## Reviewer
+### Journal
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Computational Social Systems (TCSS)
+- ACM Transactions on Intelligent Systems and Technology (TIST)
+- IEEE Access
+### Conference
+- SIGIR25
 
 # 🌟 Honors and Awards
-- *2023*, HDR WiEIT Award Distinction, UTS.
-- *2023*, 1st Place Winner of Poster Presentations, SoCS HDR Showcase, UTS.
-- *2021*, Faculty of Engineering and Information Technology (FEIT) Scholarship, UTS.
-- *2021*, International Research Scholarship, UTS.
+- UTS HDR WiEIT Award Distinction, 2023.
+- UTS 1st Place Winner of Poster Presentations, SoCS HDR Showcase, 2023.
+- UTS Faculty of Engineering and Information Technology (FEIT) Scholarship, 2021.
+- UTS International Research Scholarship, 2021.
 
 # 📖 Teaching
 ## Academic Tutor in UTS
@@ -65,3 +100,7 @@ Coming soon.
 - *Dec 2021 - Apr 2022*, Algorithm Engineer, Bytedance, Beijing, China.
 - *Mar 2021 - Jun 2021*, Data Analyst, Bytedance, Beijing, China.
 - *Jul 2020 - Dec 2020*, Statistical Programmer, Bluebird Bio, Boston, USA.
+
+
+Last Update: Aug 2025
+
