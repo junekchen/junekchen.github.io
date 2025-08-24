@@ -43,7 +43,7 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_PointRegGPT/PointRegGPT.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_ECML/framework.pdf' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Large language models are few-shot multivariate time series classifiers**
@@ -58,6 +58,70 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 </div>
 
 <!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_CAAI/noiseprediction.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**A Temporally Disentangled Contrastive Diffusion Model for Spatiotemporal Imputation**
+
+*CAAI Transactions on Intelligence Technology, 2025*
+
+**Yakun Chen**, Kaize Shi, Zhangkai Wu, Juan Chen, Xianzhi Wang, Julian McAuley, Guandong Xu, Shui Yu
+
+[Paper](https://arxiv.org/abs/2402.11558) | [Code](https://github.com/junekchen/C2TSD) | [BibTex](collections/2025_CAAI/bibtex.md) 
+<!-- <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> -->
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_EAAI/framework.pdf' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring explicit and implicit graph learning for multivariate time series imputation**
+
+*Engineering Applications of Artificial Intelligence, 2024*
+
+**Yakun Chen**, Ruotong Hu, Zihao Li, Chao Yang, Xianzhi Wang, Guodong Long, Guandong Xu
+
+[Paper](https://drive.google.com/file/d/14R_zrR7pYqq_JCOgOooRaZCHCsx35ZoC/view) | [BibTex](collections/2024_EAAI/bibtex.md) 
+<!-- <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> -->
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_ADMA/framework.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**MTSTI: A multi-task learning framework for spatiotemporal imputation**
+
+*International Conference on Neural Information Processing (**ADMA**), 2023*
+
+**Yakun Chen**, Zihao Li, Chao Yang, Xianzhi Wang, Guodong Long, Guandong Xu
+
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_13) | [BibTex](collections/2023_ADMA/bibtex.md) 
+<!-- <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> -->
+</div>
+</div>
+
+<!-- ######################################################### -->
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2022_ICONIP/figure_frame.pdf' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Adaptive graph recurrent network for multivariate time series imputation**
+
+*International Conference on Neural Information Processing (**ICONIP**), 2022*
+
+**Yakun Chen**, Zihao Li, Chao Yang, Xianzhi Wang, Guodong Long, Guandong Xu
+
+[Paper](https://opus.lib.uts.edu.au/bitstream/10453/163519/2/ICONIP_2022_Adaptive_Graph_Recurrent_Network_for_Multivariate_Time_Series_Imputation.pdf) | [BibTex](collections/2022_ICONIP/bibtex.md) 
+<!-- <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> -->
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 
 ## Co Author
 Coming Soon.
