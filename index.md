@@ -43,7 +43,7 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_ECML/framework.pdf' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_ECML/framework.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Large language models are few-shot multivariate time series classifiers**
@@ -75,7 +75,7 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_EAAI/framework.pdf' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_EAAI/framework.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring explicit and implicit graph learning for multivariate time series imputation**
@@ -106,7 +106,7 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 </div>
 
 <!-- ######################################################### -->
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2022_ICONIP/figure_frame.pdf' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2022_ICONIP/figure_frame.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive graph recurrent network for multivariate time series imputation**
@@ -121,7 +121,6 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 </div>
 
 <!-- ######################################################### -->
-
 
 ## Co Author
 Coming Soon.
@@ -165,6 +164,6 @@ Coming Soon.
 - *Mar 2021 - Jun 2021*, Data Analyst, Bytedance, Beijing, China.
 - *Jul 2020 - Dec 2020*, Statistical Programmer, Bluebird Bio, Boston, USA.
 
-
-Last Update: Aug 2025
+<br>
+<small>Last Update: Aug 2025</small>
 
