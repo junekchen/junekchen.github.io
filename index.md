@@ -122,8 +122,8 @@ Data Mining, Multivariate Time Series Analysis, Large Language Models Applicatio
 
 <!-- ######################################################### -->
 
-## Co Author
-Coming Soon.
+<!-- ## Co Author
+Coming Soon. -->
 
 # 🌐 Professional Activities
 ## Conference Chair
