@@ -141,6 +141,7 @@ Coming Soon. -->
 - IEEE Access
 ### Conference
 - SIGIR25
+- ICME26
 
 # 🌟 Honors and Awards
 - UTS HDR WiEIT Award Distinction, 2023.
@@ -165,5 +166,5 @@ Coming Soon. -->
 - *Jul 2020 - Dec 2020*, Statistical Programmer, Bluebird Bio, Boston, USA.
 
 <br>
-<small>Last Update: Aug 2025</small>
+<small>Last Update: Jan 2026</small>
 
