@@ -19,7 +19,11 @@ author_profile: true
 
 # 🙋‍♀️ About Me
 
-Dr. Yakun Chen is currently a Postdoctoral Research Fellow of Centre for Learning, Teaching, and Technology ([LTTC](https://lttc.eduhk.hk/)) at The Education University of Hong Kong (EdUHK), in collaboration with [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong). She received her Ph.D. degree at the School of Computer Science, Faculty of Engineering and Information Technology, University of Technology Sydney (UTS) (2021-2025), under the supervision of [Dr. Xianzhi Wang](https://profiles.uts.edu.au/XIANZHI.WANG/about), [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong), and [A/Prof. Guodong Long](https://profiles.uts.edu.au/Guodong.Long/about). Before that, she received her Master of Science degree in Applied Mathematics from Northeastern University, USA (2019-2021) and Bachelor of Science degree in Information and Computing Science from Zhejiang Gongshang University (2015-2019). She has published several papers in leading conferences and journals, such as WWW, CSUR, EAAI, and NCA. Additionally, she serves as a reviewer for prominent journals and conferences, including TNNLS, TCSS, ACM TIST, WWW, SIGIR, and IJCAI.
+Dr. Yakun Chen is currently a Technical Service Engineer at Alibaba Cloud. Before joining Alibaba Cloud, she was a Postdoctoral Research Fellow of Centre for Learning, Teaching, and Technology ([LTTC](https://lttc.eduhk.hk/)) at The Education University of Hong Kong (EdUHK), in collaboration with [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong).
+
+She received her Ph.D. degree at the School of Computer Science, Faculty of Engineering and Information Technology, University of Technology Sydney (UTS) in 2025, under the supervision of [Dr. Xianzhi Wang](https://profiles.uts.edu.au/XIANZHI.WANG/about), [Prof. Guandong Xu](https://www.eduhk.hk/en/experts/professor-xu-guandong), and [A/Prof. Guodong Long](https://profiles.uts.edu.au/Guodong.Long/about). Before that, she received her Master of Science degree in Applied Mathematics from Northeastern University, USA in 2021 and Bachelor of Science degree in Information and Computing Science from Zhejiang Gongshang University in 2019. 
+ 
+She has published several papers in leading conferences and journals, such as WWW, CSUR, EAAI, and NCA. Additionally, she serves as a reviewer for prominent journals and conferences, including TNNLS, TCSS, ACM TIST, WWW, SIGIR, and IJCAI.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -167,5 +171,5 @@ Coming Soon. -->
 - *Jul 2020 - Dec 2020*, Statistical Programmer, Bluebird Bio, Boston, USA.
 
 <br>
-<small>Last Update: Jan 2026</small>
+<small>Last Update: Apr 2026</small>
 
